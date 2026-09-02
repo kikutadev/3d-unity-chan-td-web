@@ -1,5 +1,7 @@
 # Unity-chan Action TD — Web Preview
 
+Live preview: https://kikutadev.github.io/3d-unity-chan-td-web/
+
 Public GitHub Pages build used only for hands-on control/feel review.
 
 - Source revision: `cf3b95c`
