@@ -19,3 +19,4 @@ Public GitHub Pages build used only for hands-on control/feel review.
 Landscape touch layout: left thumb movement, right thumb combat/jump, persistent `DLY/GTH/AMP` support dock. Support is one-tap nearest-valid deploy and does not consume Combat Energy.
 
 See `THIRD_PARTY_NOTICES.md` for public-build asset notices.
+Animation-only gallery: https://kikutadev.github.io/3d-unity-chan-td-web/animation-gallery/
