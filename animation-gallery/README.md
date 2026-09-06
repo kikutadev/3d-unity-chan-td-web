@@ -6,7 +6,6 @@ Default mode is **FLOW** because run → attack → combo → run continuity is 
 
 Flow reviews: Moving Combo, Rising Combo, Strong From Run, Special From Run, Dodge From Run.
 
-Normal 1/2 in FLOW keep locomotion-driven legs and layer the sword motion on the upper body; Normal 3 is the full-body finisher. FX can be toggled with `F`.
+Normal 1/2 preserve locomotion/idle legs and layer the sword motion only on the upper body in **both FLOW and SINGLE**. Normal 3 is the full-body finisher. The upper-body layer exits faster before Normal 3 so N2 → N3 does not leave a residual torso pose. FX can be toggled with `F`.
 
 Generated with Unity 6000.3.22f1 on 2026-09-06.
-Continuity pass: Normal 1/2 keep locomotion legs; the upper-body layer now fades out faster before the full-body Normal 3 so N2 → N3 does not leave a residual torso pose.
