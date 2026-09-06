@@ -1,6 +1,8 @@
 {
-  "title": "Unity-chan Production Motion + FX Gallery",
+  "title": "Unity-chan Production Motion + Flow Gallery",
   "motions": 12,
+  "flowReviews": 5,
+  "defaultMode": "flow",
   "unity": "6000.3.22f1",
   "scope": "generated WebGL output only"
 }

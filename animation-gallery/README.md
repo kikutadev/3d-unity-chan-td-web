@@ -1,9 +1,11 @@
-# Unity-chan Production Motion + FX Gallery
+# Unity-chan Production Motion + Flow Gallery
 
-Public WebGL output for isolated production-motion review. The source Unity project and raw third-party animation/model/VFX packages are not published in this repository.
+Public generated WebGL output for motion/transition review. The Unity source project and raw third-party model/animation packages are not published here.
 
-Gallery contents: Idle, Walk, Run, Jump, Normal 1/2/3, Strong, Rising Slash, Dodge, Special, Hit Reaction.
+Default mode is **FLOW** because run → attack → combo → run continuity is the primary review target. `TAB` switches to SINGLE action pose review. Neither mode auto-repeats; use Replay/Space to run another pass.
 
-Combat entries default to **FX ON** and show the production blade trail, swing/Special VFX and action audio without enemies, damage, HUD or camera shake. Press `F` (or the FX button) to compare body motion alone.
+Flow reviews: Moving Combo, Rising Combo, Strong From Run, Special From Run, Dodge From Run.
+
+Normal 1/2 in FLOW keep locomotion-driven legs and layer the sword motion on the upper body; Normal 3 is the full-body finisher. FX can be toggled with `F`.
 
 Generated with Unity 6000.3.22f1 on 2026-09-06.
