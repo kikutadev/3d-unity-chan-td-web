@@ -9,3 +9,4 @@ Flow reviews: Moving Combo, Rising Combo, Strong From Run, Special From Run, Dod
 Normal 1/2 in FLOW keep locomotion-driven legs and layer the sword motion on the upper body; Normal 3 is the full-body finisher. FX can be toggled with `F`.
 
 Generated with Unity 6000.3.22f1 on 2026-09-06.
+Continuity pass: Normal 1/2 keep locomotion legs; the upper-body layer now fades out faster before the full-body Normal 3 so N2 → N3 does not leave a residual torso pose.
